@@ -48,4 +48,7 @@ https://stackoverflow.com/questions/22650315/segfault-on-returning-pointer
 
 5 - Instructions:
 make all
- ./assignment6.out filename.txt
+ ./assignment6.out 
+ 
+ 
+ * can also have studentTable and facultyTable to use serialization
