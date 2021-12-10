@@ -30,7 +30,7 @@ main.cpp
 
 
 3-
-error for option 11 when changing advisor for student bc its not removing student from advisor and issue with 0
+error for option 11 when changing advisor for student bc its not removing student from advisor and issue with 0 BUT ONLY WHEN FACULTY DOESNT HAVE AN INITIAL ADVISSEE *** THERE MAY APPEAR SEG FAULT** otherwise works perfectly <3
 
 
 4-  References:
